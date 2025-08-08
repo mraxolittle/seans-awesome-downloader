@@ -70,6 +70,8 @@ Examples:
 Reminder
 ------------------------------------------------------------
 
+Download here: https://drive.google.com/drive/folders/1UcHN9oJKiGpV6Ba8H1f7mh0Xr5SS0tO-?usp=sharing
+
 Use responsibly — many videos are copyrighted.
 
 Support creators when they deserve it.
