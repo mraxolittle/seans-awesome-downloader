@@ -1,6 +1,4 @@
-============================================================
-                    seans-awesome-downloader
-============================================================
+seans-awesome-downloader
 
 A powerful and easy-to-use video & audio downloader supporting all major websites.
 
