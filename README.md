@@ -19,18 +19,21 @@ Double-click the batch file for your desired format:
 🎥 Video Download Options
 Batch File	Description
 
-download-360p.bat	Downloads video(s) in 360p
+download-360p.bat	- Downloads video(s) in 360p
 
-download-512p.bat	Downloads video(s) in 512p
+download-512p.bat	- Downloads video(s) in 512p
 
-download-720p.bat	Downloads video(s) in 720p
+download-720p.bat	- Downloads video(s) in 720p
 
-download-video.bat	Downloads the best available video quality
+download-video.bat - Downloads the best available video quality
 
 🎵 Audio Download Options
-Batch File	Description
-download-audio.bat	Downloads audio as MP3
-download-audio-wav.bat	Downloads audio as WAV
+
+Batch File - Description
+
+download-audio.bat - Downloads audio as MP3
+
+download-audio-wav.bat - Downloads audio as WAV
 
 🗂️ Downloaded files will be saved in their respective folders (mp4s/, mp3s/, wav/, etc.).
 
